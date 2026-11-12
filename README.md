@@ -1,3 +1,24 @@
-![Stefan's GitHub stats](https://github-readme-stats-stefanburschers-projects.vercel.app/api?username=StefanBurscher&show_icons=true&theme=tokyonight&count_private=true&1)
+# Hi, I'm Stefan Bürscher
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stefan-burscher)
+I build software, AI agents, and automations that turn complex workflows into useful products.
+
+My work spans full-stack development, AI integrations, and the systems that connect them.
+
+### What I'm working on
+
+- **[Atomic AGI](https://www.atomicagi.com)** — SEO and AI search optimization, from visibility tracking and technical audits to content workflows.
+- **AI agents & MCP** — connecting agents to real tools, data, and everyday workflows.
+- **Workflow automation** — reducing manual work across research, content, and outreach.
+
+### Public work
+
+[**Atomic AGI plugin →**](https://github.com/Atomic-AI-tool/atomic-agi-plugin)  
+An MCP integration and keyword research skill for AI agents working with Atomic.
+
+### Tools I work with
+
+TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · Vercel AI SDK · MCP
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/stefan-burscher) · [Atomic AGI](https://www.atomicagi.com)
